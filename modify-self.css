@@ -1,0 +1,206 @@
+h2 {
+  margin-top: 30px;
+  margin-bottom: 5px;
+  font-family: Agaramondpro, sans-serif;
+  color: #8481ff;
+  font-size: 23px;
+  line-height: 36px;
+  font-style: italic;
+  font-weight: 700;
+}
+
+a {
+  color: #8481ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.text-block {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.body {
+  padding: 0px;
+  background-color: #e6e6e6;
+  /*background-color: #1a0055;*/
+  font-family: 'IBM Plex Mono', sans-serif;
+}
+
+.heading {
+  margin-top: 0px;
+  font-family: Agaramondpro, sans-serif;
+  color: #8481ff;
+  font-size: 60px;
+  line-height: 70px;
+}
+
+.text-block-2 {
+  color: #8481ff;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+}
+
+.button {
+  margin-top: 40px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #8481ff;
+  color: #1a0055;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.button:hover {
+  background-color: #1a0055;
+  color: #8481ff;
+  text-decoration: none;
+}
+
+.bottom {
+  margin-top: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-top: 1px solid #8481ff;
+  color: #8481ff;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+.left {
+  padding-right: 0px;
+  padding-left: 30px;
+  border-left: 1px solid #8481ff;
+}
+
+.heading-2 {
+  font-family: Agaramondpro, sans-serif;
+  font-size: 22px;
+  font-style: italic;
+}
+
+.container {
+  padding-top: 60px;
+}
+
+.heading-3 {
+  margin-top: 0px;
+  margin-bottom: 5px;
+  color: #8481ff;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.ref {
+  font-size: 12px;
+  line-height: 17px;
+}
+
+.ref.heb {
+  font-family: Alef, sans-serif;
+  font-size: 12px;
+}
+
+.heading-4 {
+  line-height: 29px;
+}
+
+.first {
+  padding-right: 30px;
+  padding-left: 0px;
+}
+
+.columns {
+  max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.contain {
+  padding: 50px;
+}
+
+.brand {
+  background-image: url('../images/android-chrome-512x512.png');
+  background-position: 0% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.navbar {
+  background-color: hsla(0, 0%, 100%, 0);
+}
+
+.container-2 {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.nav-link {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #1a0055;
+  color: #8481ff;
+}
+
+.nav-link:hover {
+  background-color: #8481ff;
+  color: #1a0055;
+  text-decoration: none;
+}
+
+.logo {
+  position: fixed;
+  left: 3%;
+  top: 6%;
+  right: auto;
+  bottom: auto;
+  width: 60px;
+  height: 60px;
+  background-image: url('../assets/android-chrome-512x512.png');
+  background-image: url('https://cdn.glitch.com/9f12331c-c971-472e-8773-5bb07b3e7a5f%2Fandroid-chrome-512x512.png?v=1596528085189');
+  background-position: 0px 0px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 767px) {
+  .left {
+    padding-left: 0px;
+  }
+  .first {
+    padding-right: 0px;
+  }
+  .contain {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}
+
+@font-face {
+  font-family: 'Agaramondpro';
+  src: url('https://cdn.glitch.com/9f12331c-c971-472e-8773-5bb07b3e7a5f%2FAGaramondPro-Italic.otf?v=1596528305694') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Agaramondpro';
+  src: url('https://cdn.glitch.com/9f12331c-c971-472e-8773-5bb07b3e7a5f%2FAGaramondPro-Regular.otf?v=1596528312087') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Agaramondpro';
+  src: url('https://cdn.glitch.com/9f12331c-c971-472e-8773-5bb07b3e7a5f%2FAGaramondPro-BoldItalic.otf?v=1596528299029') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Agaramondpro';
+  src: url('https://cdn.glitch.com/9f12331c-c971-472e-8773-5bb07b3e7a5f%2FAGaramondPro-Bold.otf?v=1596528296957') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
