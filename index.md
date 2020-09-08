@@ -19,7 +19,7 @@
           <div class="bottom">Created by <strong>Tom Reznikov</strong><br><br>
             Mentor: <strong>Itay Laniado</strong><br><br>
             <strong>M.Des Design &amp; Technology<br>Industrial Design Departmen, Bezalel Academy, Jerusalem, 2020</strong><br><br>
-            Special Thanks: <strong>Itay Laniado, Oded Weinreb, Bar Reznikov, Naama Arlaki, Yair Nachliel, Hila Weiss, Arik Vartanian, Asaf Schers, Uri Marom, Yuval Pesso, Yuval Bertocchi, Naomi Slaney, Tal Nissim, Bili Regev, Ben Lev, Tal Erez, Dr. Romi Mikulinsky, Saron Paz, Eyal Frid, Sarit Youdelevich, Tomer Sapir</strong></div>
+            Special Thanks: <strong>Itay Laniado, Oded Weinreb, Bar Reznikov, Naama Arlaki, Yair Nachliel, Hila Weiss, Arik Vartanian, Asaf Schers, Uri Marom, Gideon Elazar, Yuval Pesso, Yuval Bertocchi, Naomi Slaney, Tal Nissim, Bili Regev, Ben Lev, Tal Erez, Dr. Romi Mikulinsky, Saron Paz, Eyal Frid, Sarit Youdelevich, Tomer Sapir</strong></div>
         </div>
       </div>
       <div class="left w-col w-col-4">
