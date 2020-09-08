@@ -659,6 +659,16 @@ textarea.w-select {
   }
 }
 @media screen and (max-width: 767px) {
+    .logo {
+    position: inherit !important;
+    margin-bottom: 10px !important;    
+    margin-top: -20px;
+    }
+    .lang-btn {
+    position: inherit !important;
+    float: right;
+    margin-top: -50px;
+}
   .w-hidden-main {
     display: inherit !important;
   }
