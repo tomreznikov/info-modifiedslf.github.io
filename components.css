@@ -54,6 +54,21 @@ body {
   line-height: 20px;
   color: #333;
 }
+
+.hebrew {
+    direction: rtl;
+    font-family: Alef, sans-serif;
+}
+.lang-btn {
+    position: fixed;
+    left: 9%;
+    top: 8%;
+    right: auto;
+    bottom: auto;
+    color: #1a0055;
+    border-radius: 50px;
+    font-size: 17px;
+}
 img {
   max-width: 100%;
   vertical-align: middle;
