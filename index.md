@@ -1,7 +1,9 @@
 <!DOCTYPE html>
+<html data-wf-page="5f2904d10e7a04aa104095e9" data-wf-site="5f2904d10e7a048a414095e8">
 <body class="body">
   <div class="contain">
     <div class="logo"></div>
+    <div class="lang-btn"><a href="/hebrew.html">Heb</a></div>
     <div class="columns w-row">
       <div class="first w-col w-col-8">
         <h1 class="heading">Modified Self</h1>
@@ -64,5 +66,6 @@
       </div>
     </div>
   </div>
+  
 </body>
 </html>
