@@ -68,6 +68,9 @@ body {
     color: #1a0055;
     font-size: 17px;
 }
+.text-block-2 .hebrew {
+    width: 85%;
+}
 img {
   max-width: 100%;
   vertical-align: middle;
@@ -668,7 +671,10 @@ textarea.w-select {
     position: inherit !important;
     float: right;
     margin-top: -50px;
-}
+    }
+    .text-block-2 .hebrew {
+    width: 100% !important;
+    }
   .w-hidden-main {
     display: inherit !important;
   }
