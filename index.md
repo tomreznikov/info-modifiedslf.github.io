@@ -14,6 +14,7 @@
           Our behavior shapes our algorithmic self, and based on this, our algorithmic self serves us personalized content, that shapes us back.<br><br>
           Instead of resisting, why don’t we use this apparatus for our own good? ‘Identity Modifier’ is an experimental tool that takes advantage of this mechanism, to make desired identity adjustments. Giving people the option to train their algorithmic profile in order to make desired changes in their subjectivity.<br></div>
         <a href="http://www.identitymodifier.com/" class="button w-button">Try ‘Identity Modifier’</a> <a href="https://modify-hebrew.glitch.me/"  class="button w-button">Go to Hebrew Short Version</a>
+        <a href="https://grouped-id.glitch.me/" target="_blank" class="small-link">Identity components aggregated data</a>
         <div>
           <div class="bottom">Created by <strong>Tom Reznikov</strong><br><br>
             Mentor: <strong>Itay Laniado</strong><br><br>

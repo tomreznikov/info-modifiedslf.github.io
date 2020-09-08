@@ -71,6 +71,11 @@ body {
 .text-block-2 .hebrew {
     width: 85%;
 }
+a.small-link {
+    display: block;
+    margin-top: 20px;
+    text-decoration: underline;
+}
 img {
   max-width: 100%;
   vertical-align: middle;
